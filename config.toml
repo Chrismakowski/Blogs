@@ -1,0 +1,67 @@
+## Basic Configuration
+
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Chris Makowski"
+title = "Chris' Dope Data Science Blog"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Chris Makowski"
+intro = "Chris' Dope Data Science Blog"
+description = "Quick R Tutorials"
+authorimage = "Chris2.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "Chrismakowski"
+
+
+twitter = "cmako14"
+facebook = "chris.makowski.3"
+
+
+email = "makowsks@yahoo.com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "Who Am I?"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"

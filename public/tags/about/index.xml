@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Chris&#39; Dope Data Science Blog</title>
+    <link>/hugo-goa-demo/tags/about/</link>
+    <description>Recent content in About on Chris&#39; Dope Data Science Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/hugo-goa-demo/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who Am I?</title>
+      <link>/hugo-goa-demo/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/hugo-goa-demo/about/</guid>
+      <description>Hello, everyone. My name, as you probably were able to gather, is Chris Makowski and you must want to know something about me. Objectively speaking, I am a student athlete at Mercyhurst University, play Dividion 1 hockey and stufying both English and Communications. I run a blog on &amp;lsquo;blogger&amp;rsquo; entitled &amp;lsquo;Come and Share This Jam With Me,&amp;rsquo; and I also am a writer for the online magazine, &amp;lsquo;The Odyssey.&amp;rsquo;
+My intention in this blog is to broaden my horizons in terms of studies and involvement, while also providing some quick and easy R tutorials.</description>
+    </item>
+    
+  </channel>
+</rss>
