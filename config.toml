@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://the-data-science-blog.netlify.com/" 
+baseurl = "https://lawyer-beaver-22835.netlify.com/blog/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
