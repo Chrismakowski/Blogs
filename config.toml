@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://lawyer-beaver-22835.netlify.com/blog/" 
+baseurl = "https://lawyer-beaver-22835.netlify.com/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
