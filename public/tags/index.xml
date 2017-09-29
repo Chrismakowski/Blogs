@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chris&#39; Dope Data Science Blog</title>
-    <link>https://lawyer-beaver-22835.netlify.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Chris&#39; Dope Data Science Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://lawyer-beaver-22835.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aviato</title>
-      <link>https://lawyer-beaver-22835.netlify.com/tags/aviato/</link>
+      <link>/tags/aviato/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://lawyer-beaver-22835.netlify.com/tags/aviato/</guid>
+      <guid>/tags/aviato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bachman</title>
-      <link>https://lawyer-beaver-22835.netlify.com/tags/bachman/</link>
+      <link>/tags/bachman/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://lawyer-beaver-22835.netlify.com/tags/bachman/</guid>
+      <guid>/tags/bachman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pied Piper</title>
-      <link>https://lawyer-beaver-22835.netlify.com/tags/pied-piper/</link>
+      <link>/tags/pied-piper/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://lawyer-beaver-22835.netlify.com/tags/pied-piper/</guid>
+      <guid>/tags/pied-piper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Am I</title>
+      <link>/tags/who-am-i/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/who-am-i/</guid>
       <description></description>
     </item>
     

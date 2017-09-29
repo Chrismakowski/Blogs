@@ -2,23 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris&#39; Dope Data Science Blog</title>
-    <link>https://lawyer-beaver-22835.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on Chris&#39; Dope Data Science Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://lawyer-beaver-22835.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CodeRag</title>
-      <link>https://lawyer-beaver-22835.netlify.com/coderag/</link>
+      <link>/coderag/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://lawyer-beaver-22835.netlify.com/coderag/</guid>
+      <guid>/coderag/</guid>
       <description>Notes: This article originally appeared in CodeRag.
 Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
+    </item>
+    
+    <item>
+      <title>Who Am I?</title>
+      <link>/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello, everyone. My name, as you probably were able to gather, is Chris Makowski and you must want to know something about me. Objectively speaking, I am a student athlete at Mercyhurst University, play Dividion 1 hockey and stufying both English and Communications. I run a blog on &amp;lsquo;blogger&amp;rsquo; entitled &amp;lsquo;Come and Share This Jam With Me,&amp;rsquo; and I also am a writer for the online magazine, &amp;lsquo;The Odyssey.&amp;rsquo;
+My intention in this blog is to broaden my horizons in terms of studies and involvement, while also providing some quick and easy R tutorials.</description>
     </item>
     
   </channel>
